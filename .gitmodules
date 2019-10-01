@@ -1,3 +1,6 @@
 [submodule "TinyFPGA-Bootloader"]
 	path = TinyFPGA-Bootloader
 	url = https://github.com/tinyfpga/TinyFPGA-Bootloader
+[submodule "icestorm"]
+	path = icestorm
+	url = https://github.com/cliffordwolf/icestorm

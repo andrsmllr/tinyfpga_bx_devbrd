@@ -1,0 +1,3 @@
+[submodule "TinyFPGA-Bootloader"]
+	path = TinyFPGA-Bootloader
+	url = https://github.com/tinyfpga/TinyFPGA-Bootloader
